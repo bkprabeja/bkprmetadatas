@@ -1,0 +1,13 @@
+<EntitiesDescriptor ID="SM23f470ca300144342af6b83655a0b9b5b74ead6bc52" xmlns="urn:oasis:names:tc:SAML:2.0:metadata">
+
+    <EntityDescriptor ID="SM1b695e58e75f2b850f1c89a6039e62f9f7df4512200" entityID=https://fed.adp.com>
+
+        <SPSSODescriptor AuthnRequestsSigned="false" ID="SM582ed82f0c31026d8d7c0fa2dc59c32034b089512aa" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+
+            <AssertionConsumerService index="0" isDefault="false" Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location=https://fed.adp.com/affwebservices/public/saml2assertionconsumer/>
+
+        </SPSSODescriptor>
+
+    </EntityDescriptor>
+
+</EntitiesDescriptor>
