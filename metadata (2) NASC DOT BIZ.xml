@@ -1,0 +1,63 @@
+<m:EntityDescriptor entityID="LHFIORIPRD" validUntil="2038-01-01T00:00:01Z" cacheDuration="P11Y5M1DT1H30M" ID="S02cca18c-0421-1fe1-a389-148fa5d7ab5d" xmlns:m="urn:oasis:names:tc:SAML:2.0:metadata"><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><ds:Reference URI="#S02cca18c-0421-1fe1-a389-148fa5d7ab5d"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>xk0/f/C6N3yKk4qHdYHAvUmPK2E=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>XdYlpRSLIevezT7DrWa0AfN7KjANPrIzI8lMzPxZ/SxW0MAgtd31g0ikphBTw5dHqGwuBc1YgHxo
+zuj6zc8Bb7yHAjWhZy/q+7DqAiiob1HeaTP/SWFPVpwRJbtXcRRYENzOV1h/2uG8Qh2m1byukS7q
+pie253ZNR4WXS5dy424=</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIICVjCCAb8CCAogFhIZE1UBMA0GCSqGSIb3DQEBCwUAMHAxCzAJBgNVBAYTAkRFMRwwGgYDVQQK
+ExNTQVAgVHJ1c3QgQ29tbXVuaXR5MRMwEQYDVQQLEwpTQVAgV2ViIEFTMRQwEgYDVQQLEwtJMDAy
+MDc3NDA2NDEYMBYGA1UEAwwPTkdQX1NTRkFfUzJTVlBTMB4XDTE2MTIxOTEzNTUwMVoXDTM4MDEw
+MTAwMDAwMVowcDELMAkGA1UEBhMCREUxHDAaBgNVBAoTE1NBUCBUcnVzdCBDb21tdW5pdHkxEzAR
+BgNVBAsTClNBUCBXZWIgQVMxFDASBgNVBAsTC0kwMDIwNzc0MDY0MRgwFgYDVQQDDA9OR1BfU1NG
+QV9TMlNWUFMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALp89JBB+GKYAtCTXmYtksMymURc
+hXH7bcw0vlPrJCEmf9DAReosWKdmqtIUVG4oXBZe8i+F7SFRcCIou86Jb4wAbGZxX5IfkGrufRlG
+onJlLlj49uHpj183lo+B0r9TTHlg1V33/Fmmb/4wckF2oEnpcjfdByP+2GTslT3v+joPAgMBAAEw
+DQYJKoZIhvcNAQELBQADgYEAblqk8GvsUi7RwMP4BBFJ31VbUCk9NPjr3PcWnF7nCP/vzxKiZfps
+PI3D3+zqyXlwiF+rnOwLNrPjQSXs+lX/PwGneFiqx/nO3B1PhxdQWNPiul/44FTb+6UYKuhltukg
+5d4O09cEOIrnSI96L2G3JwNwUCh05KG1DHjuxO7a1Cc=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature><m:SPSSODescriptor protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol" AuthnRequestsSigned="true" WantAssertionsSigned="true"><m:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIICVjCCAb8CCAogFhIZE1UBMA0GCSqGSIb3DQEBCwUAMHAxCzAJBgNVBAYTAkRFMRwwGgYDVQQK
+ExNTQVAgVHJ1c3QgQ29tbXVuaXR5MRMwEQYDVQQLEwpTQVAgV2ViIEFTMRQwEgYDVQQLEwtJMDAy
+MDc3NDA2NDEYMBYGA1UEAwwPTkdQX1NTRkFfUzJTVlBTMB4XDTE2MTIxOTEzNTUwMVoXDTM4MDEw
+MTAwMDAwMVowcDELMAkGA1UEBhMCREUxHDAaBgNVBAoTE1NBUCBUcnVzdCBDb21tdW5pdHkxEzAR
+BgNVBAsTClNBUCBXZWIgQVMxFDASBgNVBAsTC0kwMDIwNzc0MDY0MRgwFgYDVQQDDA9OR1BfU1NG
+QV9TMlNWUFMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALp89JBB+GKYAtCTXmYtksMymURc
+hXH7bcw0vlPrJCEmf9DAReosWKdmqtIUVG4oXBZe8i+F7SFRcCIou86Jb4wAbGZxX5IfkGrufRlG
+onJlLlj49uHpj183lo+B0r9TTHlg1V33/Fmmb/4wckF2oEnpcjfdByP+2GTslT3v+joPAgMBAAEw
+DQYJKoZIhvcNAQELBQADgYEAblqk8GvsUi7RwMP4BBFJ31VbUCk9NPjr3PcWnF7nCP/vzxKiZfps
+PI3D3+zqyXlwiF+rnOwLNrPjQSXs+lX/PwGneFiqx/nO3B1PhxdQWNPiul/44FTb+6UYKuhltukg
+5d4O09cEOIrnSI96L2G3JwNwUCh05KG1DHjuxO7a1Cc=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></m:KeyDescriptor><m:KeyDescriptor use="encryption"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIICVjCCAb8CCAogFhIZE1UBMA0GCSqGSIb3DQEBCwUAMHAxCzAJBgNVBAYTAkRFMRwwGgYDVQQK
+ExNTQVAgVHJ1c3QgQ29tbXVuaXR5MRMwEQYDVQQLEwpTQVAgV2ViIEFTMRQwEgYDVQQLEwtJMDAy
+MDc3NDA2NDEYMBYGA1UEAwwPTkdQX1NTRkFfUzJTVlBFMB4XDTE2MTIxOTEzNTUwMVoXDTM4MDEw
+MTAwMDAwMVowcDELMAkGA1UEBhMCREUxHDAaBgNVBAoTE1NBUCBUcnVzdCBDb21tdW5pdHkxEzAR
+BgNVBAsTClNBUCBXZWIgQVMxFDASBgNVBAsTC0kwMDIwNzc0MDY0MRgwFgYDVQQDDA9OR1BfU1NG
+QV9TMlNWUEUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMeHpM3WFSf/ibtN6naHevoeF1+a
+1rql0JM7i8/cOir/WP2q0r1s88ZPqD/fcqwWuNWIGjk/H4sDN8+GJZuAl3grjGkMAgB6DajnEiej
+wUJ3ZNyNncIAKO3Zkjl1NMuQCuJ8i+wYYGFEHnrimnkKmxNhsxq2Iv3hu/hhm9udcSGFAgMBAAEw
+DQYJKoZIhvcNAQELBQADgYEAojHbVskPG6mSQ3Czv4tD7v70rh3mq/UzXLQOdQpkdgSoU9MWe56b
+RzjRVl65EhiXsSVZu4lIwyC/1fE2AD6NB0hfoo3SOHeNDNRapF4iZVPGFRXAmZPlTPdhtyPhcdsD
+2+yDQ57GfdCuI1Ye1idQNMQS2/IPe9unpbEM5TIUEyg=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></m:KeyDescriptor><m:ArtifactResolutionService Binding="urn:oasis:names:tc:SAML:2.0:bindings:SOAP" Location="https://nascngp.nasc.biz/sap/saml2/sp/artifact/200" index="0" isDefault="true"/><m:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://nascngp.nasc.biz/sap/saml2/sp/slo/200"/><m:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Artifact" Location="https://nascngp.nasc.biz/sap/saml2/sp/slo/200" ResponseLocation="https://nascngp.nasc.biz/sap/saml2/sp/slo/response/200"/><m:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:SOAP" Location="https://nascngp.nasc.biz/sap/saml2/sp/slo/200"/><m:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://nascngp.nasc.biz/sap/saml2/sp/slo/200"/><m:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://nascngp.nasc.biz/sap/saml2/sp/acs/200" index="0" isDefault="true"/><m:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Artifact" Location="https://nascngp.nasc.biz/sap/saml2/sp/acs/200" index="1"/><m:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:PAOS" Location="https://nascngp.nasc.biz/sap/saml2/sp/acs/200" index="2"/></m:SPSSODescriptor><m:RoleDescriptor xsi:type="fed:ApplicationServiceType" protocolSupportEnumeration="http://docs.oasis-open.org/ws-sx/ws-trust/200512 http://schemas.xmlsoap.org/ws/2005/02/trust http://docs.oasis-open.org/wsfed/federation/200706" xmlns:fed="http://docs.oasis-open.org/wsfed/federation/200706" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><m:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIICVjCCAb8CCAogFhIZE1UBMA0GCSqGSIb3DQEBCwUAMHAxCzAJBgNVBAYTAkRFMRwwGgYDVQQK
+ExNTQVAgVHJ1c3QgQ29tbXVuaXR5MRMwEQYDVQQLEwpTQVAgV2ViIEFTMRQwEgYDVQQLEwtJMDAy
+MDc3NDA2NDEYMBYGA1UEAwwPTkdQX1NTRkFfUzJTVlBTMB4XDTE2MTIxOTEzNTUwMVoXDTM4MDEw
+MTAwMDAwMVowcDELMAkGA1UEBhMCREUxHDAaBgNVBAoTE1NBUCBUcnVzdCBDb21tdW5pdHkxEzAR
+BgNVBAsTClNBUCBXZWIgQVMxFDASBgNVBAsTC0kwMDIwNzc0MDY0MRgwFgYDVQQDDA9OR1BfU1NG
+QV9TMlNWUFMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALp89JBB+GKYAtCTXmYtksMymURc
+hXH7bcw0vlPrJCEmf9DAReosWKdmqtIUVG4oXBZe8i+F7SFRcCIou86Jb4wAbGZxX5IfkGrufRlG
+onJlLlj49uHpj183lo+B0r9TTHlg1V33/Fmmb/4wckF2oEnpcjfdByP+2GTslT3v+joPAgMBAAEw
+DQYJKoZIhvcNAQELBQADgYEAblqk8GvsUi7RwMP4BBFJ31VbUCk9NPjr3PcWnF7nCP/vzxKiZfps
+PI3D3+zqyXlwiF+rnOwLNrPjQSXs+lX/PwGneFiqx/nO3B1PhxdQWNPiul/44FTb+6UYKuhltukg
+5d4O09cEOIrnSI96L2G3JwNwUCh05KG1DHjuxO7a1Cc=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></m:KeyDescriptor><m:KeyDescriptor use="encryption"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIICVjCCAb8CCAogFhIZE1UBMA0GCSqGSIb3DQEBCwUAMHAxCzAJBgNVBAYTAkRFMRwwGgYDVQQK
+ExNTQVAgVHJ1c3QgQ29tbXVuaXR5MRMwEQYDVQQLEwpTQVAgV2ViIEFTMRQwEgYDVQQLEwtJMDAy
+MDc3NDA2NDEYMBYGA1UEAwwPTkdQX1NTRkFfUzJTVlBFMB4XDTE2MTIxOTEzNTUwMVoXDTM4MDEw
+MTAwMDAwMVowcDELMAkGA1UEBhMCREUxHDAaBgNVBAoTE1NBUCBUcnVzdCBDb21tdW5pdHkxEzAR
+BgNVBAsTClNBUCBXZWIgQVMxFDASBgNVBAsTC0kwMDIwNzc0MDY0MRgwFgYDVQQDDA9OR1BfU1NG
+QV9TMlNWUEUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMeHpM3WFSf/ibtN6naHevoeF1+a
+1rql0JM7i8/cOir/WP2q0r1s88ZPqD/fcqwWuNWIGjk/H4sDN8+GJZuAl3grjGkMAgB6DajnEiej
+wUJ3ZNyNncIAKO3Zkjl1NMuQCuJ8i+wYYGFEHnrimnkKmxNhsxq2Iv3hu/hhm9udcSGFAgMBAAEw
+DQYJKoZIhvcNAQELBQADgYEAojHbVskPG6mSQ3Czv4tD7v70rh3mq/UzXLQOdQpkdgSoU9MWe56b
+RzjRVl65EhiXsSVZu4lIwyC/1fE2AD6NB0hfoo3SOHeNDNRapF4iZVPGFRXAmZPlTPdhtyPhcdsD
+2+yDQ57GfdCuI1Ye1idQNMQS2/IPe9unpbEM5TIUEyg=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></m:KeyDescriptor><fed:ClaimTypesRequested><auth:ClaimType Uri="http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier" Optional="true" xmlns:auth="http://docs.oasis-open.org/wsfed/authorization/200706"/></fed:ClaimTypesRequested><fed:ApplicationServiceEndpoint><wsa:EndpointReference xmlns:wsa="http://www.w3.org/2005/08/addressing"><wsa:Address>http://nascngp.na.holcim.net:8000/</wsa:Address></wsa:EndpointReference></fed:ApplicationServiceEndpoint><fed:ApplicationServiceEndpoint><wsa:EndpointReference xmlns:wsa="http://www.w3.org/2005/08/addressing"><wsa:Address>https://nascngp.na.holcim.net/</wsa:Address></wsa:EndpointReference></fed:ApplicationServiceEndpoint><fed:TargetScopes><wsa:EndpointReference xmlns:wsa="http://www.w3.org/2005/08/addressing"><wsa:Address>http://nascngp.na.holcim.net:8000/</wsa:Address></wsa:EndpointReference><wsa:EndpointReference xmlns:wsa="http://www.w3.org/2005/08/addressing"><wsa:Address>https://nascngp.na.holcim.net/</wsa:Address></wsa:EndpointReference></fed:TargetScopes></m:RoleDescriptor><m:RoleDescriptor xsi:type="fed:SecurityTokenServiceType" protocolSupportEnumeration="http://docs.oasis-open.org/ws-sx/ws-trust/200512 http://schemas.xmlsoap.org/ws/2005/02/trust http://docs.oasis-open.org/wsfed/federation/200706" xmlns:fed="http://docs.oasis-open.org/wsfed/federation/200706" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><m:KeyDescriptor use="signing"><ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:X509Data><ds:X509Certificate>MIICVjCCAb8CCAogFhIZE1UBMA0GCSqGSIb3DQEBCwUAMHAxCzAJBgNVBAYTAkRFMRwwGgYDVQQK
+ExNTQVAgVHJ1c3QgQ29tbXVuaXR5MRMwEQYDVQQLEwpTQVAgV2ViIEFTMRQwEgYDVQQLEwtJMDAy
+MDc3NDA2NDEYMBYGA1UEAwwPTkdQX1NTRkFfUzJTVlBTMB4XDTE2MTIxOTEzNTUwMVoXDTM4MDEw
+MTAwMDAwMVowcDELMAkGA1UEBhMCREUxHDAaBgNVBAoTE1NBUCBUcnVzdCBDb21tdW5pdHkxEzAR
+BgNVBAsTClNBUCBXZWIgQVMxFDASBgNVBAsTC0kwMDIwNzc0MDY0MRgwFgYDVQQDDA9OR1BfU1NG
+QV9TMlNWUFMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALp89JBB+GKYAtCTXmYtksMymURc
+hXH7bcw0vlPrJCEmf9DAReosWKdmqtIUVG4oXBZe8i+F7SFRcCIou86Jb4wAbGZxX5IfkGrufRlG
+onJlLlj49uHpj183lo+B0r9TTHlg1V33/Fmmb/4wckF2oEnpcjfdByP+2GTslT3v+joPAgMBAAEw
+DQYJKoZIhvcNAQELBQADgYEAblqk8GvsUi7RwMP4BBFJ31VbUCk9NPjr3PcWnF7nCP/vzxKiZfps
+PI3D3+zqyXlwiF+rnOwLNrPjQSXs+lX/PwGneFiqx/nO3B1PhxdQWNPiul/44FTb+6UYKuhltukg
+5d4O09cEOIrnSI96L2G3JwNwUCh05KG1DHjuxO7a1Cc=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></m:KeyDescriptor><fed:ClaimTypesOffered><auth:ClaimType Uri="http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier" Optional="true" xmlns:auth="http://docs.oasis-open.org/wsfed/authorization/200706"/></fed:ClaimTypesOffered><fed:TokenTypesOffered><fed:TokenType Uri="urn:oasis:names:tc:SAML:1.0:assertion"/></fed:TokenTypesOffered></m:RoleDescriptor></m:EntityDescriptor>
